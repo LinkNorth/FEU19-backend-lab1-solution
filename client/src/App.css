@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  max-width: 1200px;
+  margin: auto;
+}
+
+aside {
+  max-width: 300px;
+}
+
+aside nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  max-width: 960px;
+  margin: auto;
+  min-width: 300px;
+}
